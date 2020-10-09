@@ -1,0 +1,15 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+.round{
+    border-radius: 150px;
+}
+.nav{
+    position: fixed;
+}
+.background{
+    background: fixed;
+    background-color: black;
+    color:white ;
+}
